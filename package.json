@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/we-re-git-init/modern_js#readme",
   "dependencies": {
+    "mathjs": "^6.0.3",
     "moment": "^2.24.0"
   },
   "devDependencies": {
